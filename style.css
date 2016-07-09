@@ -16,5 +16,7 @@ Template: twentyfourteen
 
 /* CUSTOM  STYLES*/
 div.header-main h2{
-    color: #24890d; font-size: small; }
+    color: #24890d; font-size: small;
+    font-style: italic;
+}
 
